@@ -1,1 +1,1 @@
-include ':XCodeDemo',':module-barcode'
+include ':module-barcode'
